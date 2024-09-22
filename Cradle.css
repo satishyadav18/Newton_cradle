@@ -35,7 +35,7 @@ div{
 .cradle div::before{
     content: "";
     position: absolute;
-    left: -2.6rem;
+    left: -2.45rem;
     top: 90%;
     width: 5rem;
     aspect-ratio: 1;
